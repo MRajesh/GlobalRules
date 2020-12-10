@@ -7,6 +7,8 @@
             <af:form id="f1">
                 <af:button text="From Jdev" id="b1"/>
             </af:form>
+              <af:button text="From Git" id="b1"/>    
+                  </af:form>
         </af:document>
     </f:view>
 </jsp:root>
