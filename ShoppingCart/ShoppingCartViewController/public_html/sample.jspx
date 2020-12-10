@@ -6,7 +6,7 @@
         <af:document title="sample.jspx" id="d1">
             <af:form id="f1">
                 <af:button text="From Jdev" id="b1"/>
-              <af:button text="From Git" id="b2"/>    
+              <af:button text="From Gits" id="b2"/>    
                   </af:form>
         </af:document>
     </f:view>
