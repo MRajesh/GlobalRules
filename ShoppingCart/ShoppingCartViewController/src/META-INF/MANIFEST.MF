@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Weblogic-Application-Version: @Weblogic-Application-Version@
+Release-No: 1
+Build-No: 0
+Built-By: @Rajesh@
+Built-Date: @12/11/2020@
