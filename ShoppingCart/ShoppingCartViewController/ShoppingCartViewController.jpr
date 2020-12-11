@@ -84,6 +84,7 @@
       <list n="technologyScope">
          <string v="ADF_FACES"/>
          <string v="ADFc"/>
+         <string v="Ant"/>
          <string v="JSF"/>
          <string v="JSP"/>
          <string v="Java"/>
